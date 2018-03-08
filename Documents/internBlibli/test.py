@@ -1,2 +1,2 @@
 print ("Hello World")
-print ("Diedit Jonathan")
+print ("Diedit Jonathan") --cek kembali
